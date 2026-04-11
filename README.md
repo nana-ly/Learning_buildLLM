@@ -19,7 +19,7 @@
 
 ```bash
 # 在 GitHub 上点 Fork，然后 clone 你自己的仓库
-git clone https://github.com/<your-username>/buildLLM.git
+git clone https://github.com/funfungo/Learning_buildLLM
 cd buildLLM
 ```
 
