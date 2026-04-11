@@ -1,0 +1,14 @@
+[project]
+name = "buildllm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "tiktoken>=0.12.0",
+    "torch>=2.11.0",
+    "tqdm>=4.67.3",
+]
